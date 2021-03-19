@@ -9,7 +9,7 @@ permalink: /reviews/maria-sledmere-bethany-mitchell/
 categories:
   - Reviews
 ---
-<img loading="lazy" class="aligncenter wp-image-1319" src="http://amberflora.com/wp-content/uploads/2019/12/61pXHVdYTJL.jpg" alt="Maria Sledmere – nature sounds without nature sounds" width="400" height="567" srcset="https://www.amberflora.com/wp-content/uploads/2019/12/61pXHVdYTJL.jpg 959w, https://www.amberflora.com/wp-content/uploads/2019/12/61pXHVdYTJL-212x300.jpg 212w, https://www.amberflora.com/wp-content/uploads/2019/12/61pXHVdYTJL-768x1089.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/12/61pXHVdYTJL-722x1024.jpg 722w" sizes="(max-width: 400px) 100vw, 400px" />
+<img loading="lazy" class="aligncenter wp-image-1319" src="http://amberflora.com/wp-content/uploads/2019/12/61pXHVdYTJL.jpg" alt="Maria Sledmere – nature sounds without nature sounds" width="400" height="567" srcset="/assets/wp-content/uploads/2019/12/61pXHVdYTJL.jpg 959w, /assets/wp-content/uploads/2019/12/61pXHVdYTJL-212x300.jpg 212w, /assets/wp-content/uploads/2019/12/61pXHVdYTJL-768x1089.jpg 768w, /assets/wp-content/uploads/2019/12/61pXHVdYTJL-722x1024.jpg 722w" sizes="(max-width: 400px) 100vw, 400px" />
 
 <span style="font-size: 10pt; font-family: georgia, palatino, serif;"><em>nature sounds without nature sounds</em>, by Maria Sledmere. Published by Sad Press, 2019. <a href="https://sadpresspoetry.com/our-books/">Available for purchase here.</a></span>
 

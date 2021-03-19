@@ -9,7 +9,7 @@ permalink: /reviews/petero-kalule-kashif-sharma-patel/
 categories:
   - Reviews
 ---
-<img loading="lazy" class="aligncenter wp-image-1194" src="http://amberflora.com/wp-content/uploads/2019/11/Kalimbacoverweb.jpg" alt="Cover of Kalimba by Petero Kalulé. The cover is yellow with the title in the centre over a black sun-like shape." width="400" height="529" srcset="https://www.amberflora.com/wp-content/uploads/2019/11/Kalimbacoverweb.jpg 1500w, https://www.amberflora.com/wp-content/uploads/2019/11/Kalimbacoverweb-227x300.jpg 227w, https://www.amberflora.com/wp-content/uploads/2019/11/Kalimbacoverweb-768x1015.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/11/Kalimbacoverweb-775x1024.jpg 775w" sizes="(max-width: 400px) 100vw, 400px" />
+<img loading="lazy" class="aligncenter wp-image-1194" src="http://amberflora.com/wp-content/uploads/2019/11/Kalimbacoverweb.jpg" alt="Cover of Kalimba by Petero Kalulé. The cover is yellow with the title in the centre over a black sun-like shape." width="400" height="529" srcset="/assets/wp-content/uploads/2019/11/Kalimbacoverweb.jpg 1500w, /assets/wp-content/uploads/2019/11/Kalimbacoverweb-227x300.jpg 227w, /assets/wp-content/uploads/2019/11/Kalimbacoverweb-768x1015.jpg 768w, /assets/wp-content/uploads/2019/11/Kalimbacoverweb-775x1024.jpg 775w" sizes="(max-width: 400px) 100vw, 400px" />
 
 <p style="text-align: left;">
   <span style="font-size: 10pt; font-family: georgia, palatino, serif;"><em>Kalimba</em>, by Petero Kalulé. Published by Guillemot Press, 2019. <a href="https://www.guillemotpress.co.uk/poetry/petero-kalul">Available for purchase here.</a></span>

@@ -13,7 +13,7 @@ categories:
   <span style="font-family: georgia, palatino, serif; font-size: 12pt;">Lava spasm</span>
 </h1>
 
-<img loading="lazy" class="alignnone wp-image-1006" src="http://amberflora.com/wp-content/uploads/2019/08/GITAN-DJELI-e1567094093441.jpg" alt="Gitan Djeli: Lava spasm" width="499" height="657" srcset="https://www.amberflora.com/wp-content/uploads/2019/08/GITAN-DJELI-e1567094093441.jpg 860w, https://www.amberflora.com/wp-content/uploads/2019/08/GITAN-DJELI-e1567094093441-228x300.jpg 228w, https://www.amberflora.com/wp-content/uploads/2019/08/GITAN-DJELI-e1567094093441-768x1011.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/08/GITAN-DJELI-e1567094093441-778x1024.jpg 778w" sizes="(max-width: 499px) 100vw, 499px" />  
+<img loading="lazy" class="alignnone wp-image-1006" src="http://amberflora.com/wp-content/uploads/2019/08/GITAN-DJELI-e1567094093441.jpg" alt="Gitan Djeli: Lava spasm" width="499" height="657" srcset="/assets/wp-content/uploads/2019/08/GITAN-DJELI-e1567094093441.jpg 860w, /assets/wp-content/uploads/2019/08/GITAN-DJELI-e1567094093441-228x300.jpg 228w, /assets/wp-content/uploads/2019/08/GITAN-DJELI-e1567094093441-768x1011.jpg 768w, /assets/wp-content/uploads/2019/08/GITAN-DJELI-e1567094093441-778x1024.jpg 778w" sizes="(max-width: 499px) 100vw, 499px" />  
 &nbsp;  
 &nbsp;  
 <span style="font-family: georgia, palatino, serif; font-size: 12pt;"><em>Gitan Djeli is a London-based Mauritian writer and researcher in cultural studies. Her poems appear in the July/August issue of Poetry (2019) and in the anthology We Mark Your Memory by Commonwealth Writers (2018).</em></span>

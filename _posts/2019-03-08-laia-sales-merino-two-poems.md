@@ -42,7 +42,7 @@ categories:
 <span style="font-family: georgia, palatino, serif; font-size: 12pt;">I want to be</span>  
 <span style="font-family: georgia, palatino, serif; font-size: 12pt;">an artist.</span>
 
-<img loading="lazy" class="alignnone wp-image-751" src="http://amberflora.com/wp-content/uploads/2019/02/Poetry-submission-Laia-2-1.jpg" alt="Laia Sales Merino – HEALING" width="700" height="1576" srcset="https://www.amberflora.com/wp-content/uploads/2019/02/Poetry-submission-Laia-2-1.jpg 1389w, https://www.amberflora.com/wp-content/uploads/2019/02/Poetry-submission-Laia-2-1-133x300.jpg 133w, https://www.amberflora.com/wp-content/uploads/2019/02/Poetry-submission-Laia-2-1-768x1729.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/02/Poetry-submission-Laia-2-1-455x1024.jpg 455w" sizes="(max-width: 700px) 100vw, 700px" /> 
+<img loading="lazy" class="alignnone wp-image-751" src="http://amberflora.com/wp-content/uploads/2019/02/Poetry-submission-Laia-2-1.jpg" alt="Laia Sales Merino – HEALING" width="700" height="1576" srcset="/assets/wp-content/uploads/2019/02/Poetry-submission-Laia-2-1.jpg 1389w, /assets/wp-content/uploads/2019/02/Poetry-submission-Laia-2-1-133x300.jpg 133w, /assets/wp-content/uploads/2019/02/Poetry-submission-Laia-2-1-768x1729.jpg 768w, /assets/wp-content/uploads/2019/02/Poetry-submission-Laia-2-1-455x1024.jpg 455w" sizes="(max-width: 700px) 100vw, 700px" /> 
 
 &nbsp;
 

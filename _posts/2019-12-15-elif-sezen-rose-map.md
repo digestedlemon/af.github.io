@@ -11,7 +11,7 @@ categories:
 ---
 # <span style="font-family: georgia, palatino, serif; font-size: 12pt;">Rose map</span>
 
-<img loading="lazy" class="alignnone wp-image-1281" src="http://amberflora.com/wp-content/uploads/2019/11/Rose-map-by-Elif-Sezen.jpg" alt="Elif Sezen – Rose map" width="800" height="1779" srcset="https://www.amberflora.com/wp-content/uploads/2019/11/Rose-map-by-Elif-Sezen.jpg 1693w, https://www.amberflora.com/wp-content/uploads/2019/11/Rose-map-by-Elif-Sezen-135x300.jpg 135w, https://www.amberflora.com/wp-content/uploads/2019/11/Rose-map-by-Elif-Sezen-768x1708.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/11/Rose-map-by-Elif-Sezen-460x1024.jpg 460w" sizes="(max-width: 800px) 100vw, 800px" /> 
+<img loading="lazy" class="alignnone wp-image-1281" src="http://amberflora.com/wp-content/uploads/2019/11/Rose-map-by-Elif-Sezen.jpg" alt="Elif Sezen – Rose map" width="800" height="1779" srcset="/assets/wp-content/uploads/2019/11/Rose-map-by-Elif-Sezen.jpg 1693w, /assets/wp-content/uploads/2019/11/Rose-map-by-Elif-Sezen-135x300.jpg 135w, /assets/wp-content/uploads/2019/11/Rose-map-by-Elif-Sezen-768x1708.jpg 768w, /assets/wp-content/uploads/2019/11/Rose-map-by-Elif-Sezen-460x1024.jpg 460w" sizes="(max-width: 800px) 100vw, 800px" /> 
 
 <span style="font-size: 12pt; font-family: georgia, palatino, serif;">Note: Ayvalık is a seaside town on the north-western Aegean coast of Turkey. Konya (known as Iconium in Roman times) is a major city in south-western edge of the Central Anatolian Plateau in Turkey. Konya was the final home of Mevlana Jalaluldin Rumi, whose tomb resides in this city.</span>
 

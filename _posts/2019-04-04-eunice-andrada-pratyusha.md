@@ -9,7 +9,7 @@ permalink: /reviews/eunice-andrada-pratyusha/
 categories:
   - Reviews
 ---
-<img loading="lazy" class=" wp-image-774 aligncenter" src="http://amberflora.com/wp-content/uploads/2019/04/Flood-Damages-192x300.jpg" alt="" width="296" height="462" srcset="https://www.amberflora.com/wp-content/uploads/2019/04/Flood-Damages-192x300.jpg 192w, https://www.amberflora.com/wp-content/uploads/2019/04/Flood-Damages-654x1024.jpg 654w" sizes="(max-width: 296px) 100vw, 296px" />
+<img loading="lazy" class=" wp-image-774 aligncenter" src="http://amberflora.com/wp-content/uploads/2019/04/Flood-Damages-192x300.jpg" alt="" width="296" height="462" srcset="/assets/wp-content/uploads/2019/04/Flood-Damages-192x300.jpg 192w, /assets/wp-content/uploads/2019/04/Flood-Damages-654x1024.jpg 654w" sizes="(max-width: 296px) 100vw, 296px" />
 
 <p style="text-align: left;">
   <span style="font-size: 10pt; font-family: georgia, palatino, serif;"><em>Flood Damages</em>, by Eunice Andrada. Published by Giramondo, 2018. <a href="https://giramondopublishing.com/product/flood-damages/">Available for purchase here.</a></span>

@@ -9,7 +9,7 @@ permalink: /reviews/against-healing-nina-mingya-powles/
 categories:
   - Reviews
 ---
-<img loading="lazy" class="aligncenter wp-image-925" src="http://amberflora.com/wp-content/uploads/2019/07/AgainstHealing.jpg" alt="Cover of Against Healing" width="350" height="518" srcset="https://www.amberflora.com/wp-content/uploads/2019/07/AgainstHealing.jpg 1000w, https://www.amberflora.com/wp-content/uploads/2019/07/AgainstHealing-203x300.jpg 203w, https://www.amberflora.com/wp-content/uploads/2019/07/AgainstHealing-768x1136.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/07/AgainstHealing-692x1024.jpg 692w" sizes="(max-width: 350px) 100vw, 350px" />
+<img loading="lazy" class="aligncenter wp-image-925" src="http://amberflora.com/wp-content/uploads/2019/07/AgainstHealing.jpg" alt="Cover of Against Healing" width="350" height="518" srcset="/assets/wp-content/uploads/2019/07/AgainstHealing.jpg 1000w, /assets/wp-content/uploads/2019/07/AgainstHealing-203x300.jpg 203w, /assets/wp-content/uploads/2019/07/AgainstHealing-768x1136.jpg 768w, /assets/wp-content/uploads/2019/07/AgainstHealing-692x1024.jpg 692w" sizes="(max-width: 350px) 100vw, 350px" />
 
 <p style="text-align: left;">
   <span style="font-size: 10pt; font-family: georgia, palatino, serif;"><em>Against Healing: Nine Korean Poets</em>, edited and translated by Emily Jungmin Yoon. Published by Tilted Axis Press, 2019. <a href="https://www.tiltedaxispress.com/store/against-healing-nine-korean-poets-translating-feminisms">Available for purchase here.</a></span>

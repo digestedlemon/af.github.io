@@ -9,7 +9,7 @@ permalink: /reviews/sohini-basak-sal-salam/
 categories:
   - Reviews
 ---
-<span style="font-family: georgia, palatino, serif; font-size: 12pt;"><img loading="lazy" class="aligncenter wp-image-624 size-full" src="http://amberflora.com/wp-content/uploads/2019/01/newness_grande.jpg" alt="Cover of We Live in the Newness of Small Differences, by Sohini Basak" width="597" height="600" srcset="https://www.amberflora.com/wp-content/uploads/2019/01/newness_grande.jpg 597w, https://www.amberflora.com/wp-content/uploads/2019/01/newness_grande-150x150.jpg 150w" sizes="(max-width: 597px) 100vw, 597px" /></span>
+<span style="font-family: georgia, palatino, serif; font-size: 12pt;"><img loading="lazy" class="aligncenter wp-image-624 size-full" src="http://amberflora.com/wp-content/uploads/2019/01/newness_grande.jpg" alt="Cover of We Live in the Newness of Small Differences, by Sohini Basak" width="597" height="600" srcset="/assets/wp-content/uploads/2019/01/newness_grande.jpg 597w, /assets/wp-content/uploads/2019/01/newness_grande-150x150.jpg 150w" sizes="(max-width: 597px) 100vw, 597px" /></span>
 
 <p style="text-align: left;">
   <span style="font-size: 10pt; font-family: georgia, palatino, serif;"><em>we live in the newness of small differences</em>, by Sohini Basak. Published by Eyewear, 2018. <a href="https://www.poetrybooks.co.uk/products/live-newness-small-differences-sohini-basak">Available for purchase here.</a></span>

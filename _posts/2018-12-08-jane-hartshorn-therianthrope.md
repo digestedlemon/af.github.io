@@ -9,7 +9,7 @@ permalink: /issues/issue-5/jane-hartshorn-therianthrope/
 categories:
   - Issue 5
 ---
-<img loading="lazy" class="alignnone wp-image-614" src="http://amberflora.com/wp-content/uploads/2018/12/Therianthrope-1.jpg" alt="Therianthrope" width="800" height="1144" srcset="https://www.amberflora.com/wp-content/uploads/2018/12/Therianthrope-1.jpg 1643w, https://www.amberflora.com/wp-content/uploads/2018/12/Therianthrope-1-210x300.jpg 210w, https://www.amberflora.com/wp-content/uploads/2018/12/Therianthrope-1-768x1098.jpg 768w, https://www.amberflora.com/wp-content/uploads/2018/12/Therianthrope-1-716x1024.jpg 716w" sizes="(max-width: 800px) 100vw, 800px" />
+<img loading="lazy" class="alignnone wp-image-614" src="http://amberflora.com/wp-content/uploads/2018/12/Therianthrope-1.jpg" alt="Therianthrope" width="800" height="1144" srcset="/assets/wp-content/uploads/2018/12/Therianthrope-1.jpg 1643w, /assets/wp-content/uploads/2018/12/Therianthrope-1-210x300.jpg 210w, /assets/wp-content/uploads/2018/12/Therianthrope-1-768x1098.jpg 768w, /assets/wp-content/uploads/2018/12/Therianthrope-1-716x1024.jpg 716w" sizes="(max-width: 800px) 100vw, 800px" />
 
 &nbsp;
 

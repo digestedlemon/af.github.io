@@ -9,7 +9,7 @@ permalink: /reviews/pema-monaghan-maria-sledmere/
 categories:
   - Reviews
 ---
-<span style="font-family: georgia, palatino, serif; font-size: 12pt;"><em><img loading="lazy" class="aligncenter wp-image-1074" src="http://amberflora.com/wp-content/uploads/2019/09/tlwom_cover_digital.jpg" alt="Pema Monaghan – The Last Word on Mum" width="400" height="568" srcset="https://www.amberflora.com/wp-content/uploads/2019/09/tlwom_cover_digital.jpg 1500w, https://www.amberflora.com/wp-content/uploads/2019/09/tlwom_cover_digital-211x300.jpg 211w, https://www.amberflora.com/wp-content/uploads/2019/09/tlwom_cover_digital-768x1090.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/09/tlwom_cover_digital-721x1024.jpg 721w" sizes="(max-width: 400px) 100vw, 400px" /></em></span>
+<span style="font-family: georgia, palatino, serif; font-size: 12pt;"><em><img loading="lazy" class="aligncenter wp-image-1074" src="http://amberflora.com/wp-content/uploads/2019/09/tlwom_cover_digital.jpg" alt="Pema Monaghan – The Last Word on Mum" width="400" height="568" srcset="/assets/wp-content/uploads/2019/09/tlwom_cover_digital.jpg 1500w, /assets/wp-content/uploads/2019/09/tlwom_cover_digital-211x300.jpg 211w, /assets/wp-content/uploads/2019/09/tlwom_cover_digital-768x1090.jpg 768w, /assets/wp-content/uploads/2019/09/tlwom_cover_digital-721x1024.jpg 721w" sizes="(max-width: 400px) 100vw, 400px" /></em></span>
 
 <span style="font-size: 10pt; color: #999999; font-family: georgia, palatino, serif;"><em>The Last Word on Mum</em>, by Pema Monaghan. Published by Takeaway Press, 2019. <a style="color: #999999;" href="https://takeawaypress.co.uk/shop/preorder-the-last-word-on-mum">Available for purchase here.</a></span>
 

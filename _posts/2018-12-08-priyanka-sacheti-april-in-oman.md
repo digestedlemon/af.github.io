@@ -9,7 +9,7 @@ permalink: /issues/issue-5/priyanka-sacheti-april-in-oman/
 categories:
   - Issue 5
 ---
-# <span style="font-family: georgia, palatino, serif; font-size: 12pt;"><img loading="lazy" class="aligncenter wp-image-566" src="http://amberflora.com/wp-content/uploads/2018/11/IMG_1189-e1543350639173.jpg" alt="Bougainvillea" width="400" height="533" srcset="https://www.amberflora.com/wp-content/uploads/2018/11/IMG_1189-e1543350639173.jpg 3024w, https://www.amberflora.com/wp-content/uploads/2018/11/IMG_1189-e1543350639173-225x300.jpg 225w, https://www.amberflora.com/wp-content/uploads/2018/11/IMG_1189-e1543350639173-768x1024.jpg 768w" sizes="(max-width: 400px) 100vw, 400px" /></span>
+# <span style="font-family: georgia, palatino, serif; font-size: 12pt;"><img loading="lazy" class="aligncenter wp-image-566" src="http://amberflora.com/wp-content/uploads/2018/11/IMG_1189-e1543350639173.jpg" alt="Bougainvillea" width="400" height="533" srcset="/assets/wp-content/uploads/2018/11/IMG_1189-e1543350639173.jpg 3024w, /assets/wp-content/uploads/2018/11/IMG_1189-e1543350639173-225x300.jpg 225w, /assets/wp-content/uploads/2018/11/IMG_1189-e1543350639173-768x1024.jpg 768w" sizes="(max-width: 400px) 100vw, 400px" /></span>
 
 # <span style="font-family: georgia, palatino, serif; font-size: 12pt;">April in Oman</span>
 

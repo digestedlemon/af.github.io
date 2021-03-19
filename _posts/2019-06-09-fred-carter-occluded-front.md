@@ -9,7 +9,7 @@ permalink: /issues/issue-7/fred-carter-occluded-front/
 categories:
   - Issue 7
 ---
-<img loading="lazy" class="alignnone wp-image-810" src="http://amberflora.com/wp-content/uploads/2019/05/occluded-front.jpg" alt="Fred Carter – occluded front" width="900" height="588" srcset="https://www.amberflora.com/wp-content/uploads/2019/05/occluded-front.jpg 1492w, https://www.amberflora.com/wp-content/uploads/2019/05/occluded-front-300x196.jpg 300w, https://www.amberflora.com/wp-content/uploads/2019/05/occluded-front-768x501.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/05/occluded-front-1024x668.jpg 1024w" sizes="(max-width: 900px) 100vw, 900px" />
+<img loading="lazy" class="alignnone wp-image-810" src="http://amberflora.com/wp-content/uploads/2019/05/occluded-front.jpg" alt="Fred Carter – occluded front" width="900" height="588" srcset="/assets/wp-content/uploads/2019/05/occluded-front.jpg 1492w, /assets/wp-content/uploads/2019/05/occluded-front-300x196.jpg 300w, /assets/wp-content/uploads/2019/05/occluded-front-768x501.jpg 768w, /assets/wp-content/uploads/2019/05/occluded-front-1024x668.jpg 1024w" sizes="(max-width: 900px) 100vw, 900px" />
 
 &nbsp;
 

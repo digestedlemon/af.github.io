@@ -9,7 +9,7 @@ permalink: /reviews/lehua-m-taitano-katy-lewis-hood/
 categories:
   - Reviews
 ---
-<img loading="lazy" class="wp-image-780 aligncenter" src="http://amberflora.com/wp-content/uploads/2019/04/taitano.jpg" alt="Lehua M. Taitano – Inside Me an Island" width="400" height="592" srcset="https://www.amberflora.com/wp-content/uploads/2019/04/taitano.jpg 3750w, https://www.amberflora.com/wp-content/uploads/2019/04/taitano-203x300.jpg 203w, https://www.amberflora.com/wp-content/uploads/2019/04/taitano-768x1137.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/04/taitano-692x1024.jpg 692w" sizes="(max-width: 400px) 100vw, 400px" />
+<img loading="lazy" class="wp-image-780 aligncenter" src="http://amberflora.com/wp-content/uploads/2019/04/taitano.jpg" alt="Lehua M. Taitano – Inside Me an Island" width="400" height="592" srcset="/assets/wp-content/uploads/2019/04/taitano.jpg 3750w, /assets/wp-content/uploads/2019/04/taitano-203x300.jpg 203w, /assets/wp-content/uploads/2019/04/taitano-768x1137.jpg 768w, /assets/wp-content/uploads/2019/04/taitano-692x1024.jpg 692w" sizes="(max-width: 400px) 100vw, 400px" />
 
 <p style="text-align: left;">
   <span style="font-size: 10pt; font-family: georgia, palatino, serif;"><em>Inside Me an Island</em>, by Lehua M. Taitano. Published by WordTech Editions, 2018. <a href="https://www.wordtechweb.com/taitano.html">Available for purchase here.</a></span>

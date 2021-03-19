@@ -10,7 +10,7 @@ categories:
   - Issue 8
 ---
 <p data-wp-editing="1">
-  <img loading="lazy" class="aligncenter wp-image-983" src="http://amberflora.com/wp-content/uploads/2019/08/N-Walker-Amberflora-Submission-e1567092017798.jpg" alt="Nathan Walker: vocal" width="600" height="393" srcset="https://www.amberflora.com/wp-content/uploads/2019/08/N-Walker-Amberflora-Submission-e1567092017798.jpg 1311w, https://www.amberflora.com/wp-content/uploads/2019/08/N-Walker-Amberflora-Submission-e1567092017798-300x196.jpg 300w, https://www.amberflora.com/wp-content/uploads/2019/08/N-Walker-Amberflora-Submission-e1567092017798-768x503.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/08/N-Walker-Amberflora-Submission-e1567092017798-1024x670.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" />
+  <img loading="lazy" class="aligncenter wp-image-983" src="http://amberflora.com/wp-content/uploads/2019/08/N-Walker-Amberflora-Submission-e1567092017798.jpg" alt="Nathan Walker: vocal" width="600" height="393" srcset="/assets/wp-content/uploads/2019/08/N-Walker-Amberflora-Submission-e1567092017798.jpg 1311w, /assets/wp-content/uploads/2019/08/N-Walker-Amberflora-Submission-e1567092017798-300x196.jpg 300w, /assets/wp-content/uploads/2019/08/N-Walker-Amberflora-Submission-e1567092017798-768x503.jpg 768w, /assets/wp-content/uploads/2019/08/N-Walker-Amberflora-Submission-e1567092017798-1024x670.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" />
 </p>
 
 &nbsp;  

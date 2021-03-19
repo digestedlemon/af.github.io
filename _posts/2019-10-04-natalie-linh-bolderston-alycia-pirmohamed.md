@@ -9,7 +9,7 @@ permalink: /reviews/natalie-linh-bolderston-alycia-pirmohamed/
 categories:
   - Reviews
 ---
-<img loading="lazy" class="aligncenter wp-image-1086" src="http://amberflora.com/wp-content/uploads/2019/09/9781916505230.jpg" alt="Natalie Linh Bolderston – The Protection of Ghosts" width="400" height="564" srcset="https://www.amberflora.com/wp-content/uploads/2019/09/9781916505230.jpg 1134w, https://www.amberflora.com/wp-content/uploads/2019/09/9781916505230-213x300.jpg 213w, https://www.amberflora.com/wp-content/uploads/2019/09/9781916505230-768x1084.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/09/9781916505230-726x1024.jpg 726w" sizes="(max-width: 400px) 100vw, 400px" />
+<img loading="lazy" class="aligncenter wp-image-1086" src="http://amberflora.com/wp-content/uploads/2019/09/9781916505230.jpg" alt="Natalie Linh Bolderston – The Protection of Ghosts" width="400" height="564" srcset="/assets/wp-content/uploads/2019/09/9781916505230.jpg 1134w, /assets/wp-content/uploads/2019/09/9781916505230-213x300.jpg 213w, /assets/wp-content/uploads/2019/09/9781916505230-768x1084.jpg 768w, /assets/wp-content/uploads/2019/09/9781916505230-726x1024.jpg 726w" sizes="(max-width: 400px) 100vw, 400px" />
 
 <span style="font-size: 10pt; font-family: georgia, palatino, serif;"><em>The Protection of Ghosts</em>, by Natalie Linh Bolderston. Published by V. Press, 2019. <a href="http://vpresspoetry.blogspot.com/p/the-protection-of-ghosts.html">Available for purchase here.</a></span>
 

@@ -11,7 +11,7 @@ categories:
 ---
 # <span style="font-family: georgia, palatino, serif; font-size: 12pt;">Another way to split water</span>
 
-#<img loading="lazy" class="alignnone wp-image-884" src="http://amberflora.com/wp-content/uploads/2019/05/amberflora-submission-e1560068896649.jpg" alt="Alycia Pirmohamed – Another way to split water" width="600" height="382" srcset="https://www.amberflora.com/wp-content/uploads/2019/05/amberflora-submission-e1560068896649.jpg 1106w, https://www.amberflora.com/wp-content/uploads/2019/05/amberflora-submission-e1560068896649-300x191.jpg 300w, https://www.amberflora.com/wp-content/uploads/2019/05/amberflora-submission-e1560068896649-768x490.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/05/amberflora-submission-e1560068896649-1024x653.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /> 
+#<img loading="lazy" class="alignnone wp-image-884" src="http://amberflora.com/wp-content/uploads/2019/05/amberflora-submission-e1560068896649.jpg" alt="Alycia Pirmohamed – Another way to split water" width="600" height="382" srcset="/assets/wp-content/uploads/2019/05/amberflora-submission-e1560068896649.jpg 1106w, /assets/wp-content/uploads/2019/05/amberflora-submission-e1560068896649-300x191.jpg 300w, /assets/wp-content/uploads/2019/05/amberflora-submission-e1560068896649-768x490.jpg 768w, /assets/wp-content/uploads/2019/05/amberflora-submission-e1560068896649-1024x653.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /> 
 
 # <span style="font-family: georgia, palatino, serif; font-size: 12pt;">There Are Fourteen Thousand Kilometres Between Edmonton and Dar es Salaam</span>
 

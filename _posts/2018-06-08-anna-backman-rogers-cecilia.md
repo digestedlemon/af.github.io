@@ -14,7 +14,7 @@ categories:
 <span style="font-family: georgia, palatino, serif; font-size: 12pt;"><em>or, This was written long before I got here</em></span>  
 <span style="font-family: georgia, palatino, serif; font-size: 12pt;">(after images of <em>Ophelia)</em></span>
 
-<span style="font-family: georgia, palatino, serif; font-size: 12pt;"><img loading="lazy" class="aligncenter wp-image-346 size-large" src="http://amberflora.com/wp-content/uploads/2018/05/CECILIA-AS-OPHELIA-1024x568.png" alt="" width="640" height="355" srcset="https://www.amberflora.com/wp-content/uploads/2018/05/CECILIA-AS-OPHELIA-1024x568.png 1024w, https://www.amberflora.com/wp-content/uploads/2018/05/CECILIA-AS-OPHELIA-300x167.png 300w, https://www.amberflora.com/wp-content/uploads/2018/05/CECILIA-AS-OPHELIA-768x426.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></span>
+<span style="font-family: georgia, palatino, serif; font-size: 12pt;"><img loading="lazy" class="aligncenter wp-image-346 size-large" src="http://amberflora.com/wp-content/uploads/2018/05/CECILIA-AS-OPHELIA-1024x568.png" alt="" width="640" height="355" srcset="/assets/wp-content/uploads/2018/05/CECILIA-AS-OPHELIA-1024x568.png 1024w, /assets/wp-content/uploads/2018/05/CECILIA-AS-OPHELIA-300x167.png 300w, /assets/wp-content/uploads/2018/05/CECILIA-AS-OPHELIA-768x426.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></span>
 
 <span style="font-family: georgia, palatino, serif; font-size: 12pt;">I am the one beneath the ice</span>  
  <span style="font-family: georgia, palatino, serif; font-size: 12pt;">it is not a question of fathoms, but history</span>  

@@ -10,7 +10,7 @@ categories:
   - Issue 4
 ---
 <img loading="lazy" class="alignnone wp-image-440" src="http://amberflora.com/wp-content/uploads/2018/08/Forest-text.jpg" alt="L Kiew – Forest Text" width="800" height="469" srcset="https://www.amberflora.com/wp-content/uploads/2018/08/Forest-text.jpg 1200w, https://www.amberflora.com/wp-content/uploads/2018/08/Forest-text-300x176.jpg 300w, https://www.amberflora.com/wp-content/uploads/2018/08/Forest-text-768x451.jpg 768w, https://www.amberflora.com/wp-content/uploads/2018/08/Forest-text-1024x601.jpg 1024w" sizes="(max-width: 800px) 100vw, 800px" />  
-<img loading="lazy" class="alignnone wp-image-441" src="http://amberflora.com/wp-content/uploads/2018/08/Squirrel-encounters.jpg" alt="L Kiew – Squirrel Encounters" width="800" height="612" srcset="https://www.amberflora.com/wp-content/uploads/2018/08/Squirrel-encounters.jpg 1203w, https://www.amberflora.com/wp-content/uploads/2018/08/Squirrel-encounters-300x230.jpg 300w, https://www.amberflora.com/wp-content/uploads/2018/08/Squirrel-encounters-768x588.jpg 768w, https://www.amberflora.com/wp-content/uploads/2018/08/Squirrel-encounters-1024x784.jpg 1024w" sizes="(max-width: 800px) 100vw, 800px" /> 
+<img loading="lazy" class="alignnone wp-image-441" src="http://amberflora.com/wp-content/uploads/2018/08/Squirrel-encounters.jpg" alt="L Kiew – Squirrel Encounters" width="800" height="612" srcset="/assets/wp-content/uploads/2018/08/Squirrel-encounters.jpg 1203w, /assets/wp-content/uploads/2018/08/Squirrel-encounters-300x230.jpg 300w, /assets/wp-content/uploads/2018/08/Squirrel-encounters-768x588.jpg 768w, /assets/wp-content/uploads/2018/08/Squirrel-encounters-1024x784.jpg 1024w" sizes="(max-width: 800px) 100vw, 800px" /> 
 
 &nbsp;
 

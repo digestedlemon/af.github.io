@@ -9,7 +9,7 @@ permalink: /reviews/sulochana-manandhar-radha-patel/
 categories:
   - Reviews
 ---
-<span style="font-family: georgia, palatino, serif; font-size: 12pt;"><img loading="lazy" class="aligncenter wp-image-949" src="http://amberflora.com/wp-content/uploads/2019/08/Night.jpg" alt="Cover of Night by Sulochana Manandhar" width="350" height="517" srcset="https://www.amberflora.com/wp-content/uploads/2019/08/Night.jpg 864w, https://www.amberflora.com/wp-content/uploads/2019/08/Night-203x300.jpg 203w, https://www.amberflora.com/wp-content/uploads/2019/08/Night-768x1134.jpg 768w, https://www.amberflora.com/wp-content/uploads/2019/08/Night-693x1024.jpg 693w" sizes="(max-width: 350px) 100vw, 350px" /></span>
+<span style="font-family: georgia, palatino, serif; font-size: 12pt;"><img loading="lazy" class="aligncenter wp-image-949" src="http://amberflora.com/wp-content/uploads/2019/08/Night.jpg" alt="Cover of Night by Sulochana Manandhar" width="350" height="517" srcset="/assets/wp-content/uploads/2019/08/Night.jpg 864w, /assets/wp-content/uploads/2019/08/Night-203x300.jpg 203w, /assets/wp-content/uploads/2019/08/Night-768x1134.jpg 768w, /assets/wp-content/uploads/2019/08/Night-693x1024.jpg 693w" sizes="(max-width: 350px) 100vw, 350px" /></span>
 
 <p style="text-align: left;">
   <span style="font-size: 10pt; font-family: georgia, palatino, serif;"><em>Night</em>, by Sulochana Manandhar. Published by Tilted Axis Press, 2019. <a href="https://www.tiltedaxispress.com/store/from-nepal-translating-feminisms">Available for purchase here.</a></span>

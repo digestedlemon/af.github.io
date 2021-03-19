@@ -6,6 +6,7 @@ author: amberflora
 layout: page
 guid: http://192.168.1.79/?page_id=448
 exclude: true
+permalink: /issue-5/
 ---
 <p style="text-align: center;">
   <span style="color: #339966;"><a style="color: #339966;" 

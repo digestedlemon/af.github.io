@@ -6,6 +6,7 @@ author: amberflora
 layout: page
 guid: http://54.246.198.31/?page_id=49
 exclude: true
+permalink: /issue-1/
 ---
 <p style="text-align: center;">
   <span style="color: #339966;"><a style="color: #339966;" href="/issues/issue-1/brandy-nalani-mcdougall-last-coral-standing/">Brandy Nālani McDougall: Last Coral Standing</a> <b>/</b></span><br /> <span style="color: #339966;"><a style="color: #339966;" 
